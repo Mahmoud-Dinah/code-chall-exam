@@ -12,7 +12,7 @@ Hint: You can use the array function reverse
 const reverseString = (str) => {
     // Solution code here...
    const arr = ["Hello World"]
-    arr[0].reverse();
+    arr.reverse();
     return arr
 };
 
